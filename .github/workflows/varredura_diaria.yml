@@ -27,6 +27,10 @@ jobs:
         env:
           SCRAPER_API_KEY_IMOVEIS: ${{ secrets.SCRAPER_API_KEY_IMOVEIS }}
           SERPER_API_KEY_IMOVEIS: ${{ secrets.SERPER_API_KEY_IMOVEIS }}
+          SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          SERPER_KEY: ${{ secrets.SERPER_KEY }}
+          SCRAPER_KEY: ${{ secrets.SCRAPER_KEY }}
         run: python main.py
 
       - name: Autenticar e Fazer Commit das Alterações
