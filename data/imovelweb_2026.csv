@@ -1,0 +1,6 @@
+﻿id,plataforma,cidade,bairro,titulo,preco_aluguel,quartos,area_m2,status,data_descoberta,data_atualizacao,link
+imovelweb_1b11864ce4,Imovelweb,Salvador,Geral,"440 Casas para alugar em Salvador, BA",0.0,3,120.0,ativo,2026-06-28,2026-06-28,https://www.imovelweb.com.br/casas-aluguel-salvador-ba.html
+imovelweb_d255295bd3,Imovelweb,Lauro de Freitas,Geral,"373 Casas para alugar em Lauro de Freitas, BA",0.0,3,120.0,ativo,2026-06-28,2026-06-28,https://www.imovelweb.com.br/casas-aluguel-lauro-de-freitas-ba.html
+imovelweb_d3469cb727,Imovelweb,Lauro de Freitas,Centro,"14 Imóveis baratos mobiliados para alugar no Centro, Lauro de ...",0.0,3,120.0,ativo,2026-06-28,2026-06-28,https://www.imovelweb.com.br/imoveis-aluguel-centro-lauro-de-freitas-areap-mobiliado-ordem-precio-menor.html
+imovelweb_2fe6ed20bc,Imovelweb,Lauro de Freitas,Geral,"226 Casas de Condomínio para alugar em Lauro de Freitas, BA",0.0,3,120.0,ativo,2026-06-28,2026-06-28,https://www.imovelweb.com.br/casas-casa-de-condominio-aluguel-lauro-de-freitas-ba.html
+imovelweb_2af8350a08,Imovelweb,Lauro de Freitas,Geral,"376 Casas baratas para alugar em Lauro de Freitas, BA",0.0,3,120.0,ativo,2026-06-28,2026-06-28,https://www.imovelweb.com.br/casas-aluguel-lauro-de-freitas-ba-ordem-precio-menor.html
