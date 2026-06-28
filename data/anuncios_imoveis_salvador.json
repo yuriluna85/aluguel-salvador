@@ -1,54 +1,87 @@
 {
-  "olx_salvador_pituba_01": {
-    "id": "olx_salvador_pituba_01",
-    "titulo": "Casa duplex 3 quartos com suíte e garagem privativa",
-    "plataforma": "OLX",
-    "preco_aluguel": 2800.0,
-    "cidade": "Salvador",
-    "bairro": "Pituba",
-    "quartos": 3,
-    "area_m2": 120.0,
-    "link": "https://ba.olx.com.br/grande-salvador/imoveis/aluguel-casa-pituba-3-quartos-12345678",
-    "data_descoberta": "2026-06-28",
-    "prioridade": 1
+  "metadados": {
+    "ultima_atualizacao": "2026-06-28 12:29:07",
+    "total_ativos": 4,
+    "total_indisponiveis": 1,
+    "total_historico": 5
   },
-  "chavena_mao_lauro_01": {
-    "id": "chavena_mao_lauro_01",
-    "titulo": "Casa em condomínio fechado perto da praia de Buraquinho",
-    "plataforma": "Chave na Mão",
-    "preco_aluguel": 3200.0,
-    "cidade": "Lauro de Freitas",
-    "bairro": "Buraquinho",
-    "quartos": 4,
-    "area_m2": 150.0,
-    "link": "https://www.chavenamao.com.br/imovel/aluguel-casa-lauro-de-freitas-4-quartos/id-987654/",
-    "data_descoberta": "2026-06-28",
-    "prioridade": 2
-  },
-  "vivareal_salvador_imbui_01": {
-    "id": "vivareal_salvador_imbui_01",
-    "titulo": "Casa térrea com quintal amplo e 2 vagas de garagem",
-    "plataforma": "VivaReal",
-    "preco_aluguel": 2300.0,
-    "cidade": "Salvador",
-    "bairro": "Imbuí",
-    "quartos": 3,
-    "area_m2": 110.0,
-    "link": "https://www.vivareal.com.br/imovel/casa-3-quartos-imbui-salvador-110m2-id-456789/",
-    "data_descoberta": "2026-06-28",
-    "prioridade": 1
-  },
-  "olx_santo_amaro_centro_01": {
-    "id": "olx_santo_amaro_centro_01",
-    "titulo": "Casa espaçosa 3 quartos próxima ao centro histórico",
-    "plataforma": "OLX",
-    "preco_aluguel": 1600.0,
-    "cidade": "Santo Amaro",
-    "bairro": "Centro",
-    "quartos": 3,
-    "area_m2": 130.0,
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-santo-amaro/imoveis/casa-aluguel-santo-amaro-3-quartos-777888/",
-    "data_descoberta": "2026-06-28",
-    "prioridade": 2
-  }
+  "ativos": [
+    {
+      "id": "olx_salvador_pituba_01",
+      "titulo": "Casa duplex 3 quartos com suíte e garagem privativa",
+      "plataforma": "OLX",
+      "preco_aluguel": 2800.0,
+      "cidade": "Salvador",
+      "bairro": "Pituba",
+      "quartos": 3,
+      "area_m2": 120.0,
+      "link": "https://ba.olx.com.br/grande-salvador/imoveis/aluguel-casa-pituba-3-quartos-12345678",
+      "data_descoberta": "2026-06-28",
+      "prioridade": 1,
+      "status": "ativo",
+      "data_atualizacao": "2026-06-28"
+    },
+    {
+      "id": "chavena_mao_lauro_01",
+      "titulo": "Casa em condomínio fechado perto da praia de Buraquinho",
+      "plataforma": "Chave na Mão",
+      "preco_aluguel": 3200.0,
+      "cidade": "Lauro de Freitas",
+      "bairro": "Buraquinho",
+      "quartos": 4,
+      "area_m2": 150.0,
+      "link": "https://www.chavenamao.com.br/imovel/aluguel-casa-lauro-de-freitas-4-quartos/id-987654/",
+      "data_descoberta": "2026-06-28",
+      "prioridade": 2,
+      "status": "ativo",
+      "data_atualizacao": "2026-06-28"
+    },
+    {
+      "id": "vivareal_salvador_imbui_01",
+      "titulo": "Casa térrea com quintal amplo e 2 vagas de garagem",
+      "plataforma": "VivaReal",
+      "preco_aluguel": 2300.0,
+      "cidade": "Salvador",
+      "bairro": "Imbuí",
+      "quartos": 3,
+      "area_m2": 110.0,
+      "link": "https://www.vivareal.com.br/imovel/casa-3-quartos-imbui-salvador-110m2-id-456789/",
+      "data_descoberta": "2026-06-28",
+      "prioridade": 1,
+      "status": "ativo",
+      "data_atualizacao": "2026-06-28"
+    },
+    {
+      "id": "olx_santo_amaro_centro_01",
+      "titulo": "Casa espaçosa 3 quartos próxima ao centro histórico",
+      "plataforma": "OLX",
+      "preco_aluguel": 1600.0,
+      "cidade": "Santo Amaro",
+      "bairro": "Centro",
+      "quartos": 3,
+      "area_m2": 130.0,
+      "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-santo-amaro/imoveis/casa-aluguel-santo-amaro-3-quartos-777888/",
+      "data_descoberta": "2026-06-28",
+      "prioridade": 2,
+      "status": "ativo",
+      "data_atualizacao": "2026-06-28"
+    }
+  ],
+  "indisponiveis": [
+    {
+      "id": "olx_salvador_barra_antigo",
+      "titulo": "Apartamento vista mar 2 quartos (Alugado)",
+      "plataforma": "OLX",
+      "preco_aluguel": 3500.0,
+      "cidade": "Salvador",
+      "bairro": "Barra",
+      "quartos": 2,
+      "area_m2": 85.0,
+      "link": "https://ba.olx.com.br/grande-salvador/imoveis/aluguel-barra-2-quartos-old",
+      "data_descoberta": "2026-06-15",
+      "status": "alugado",
+      "data_atualizacao": "2026-06-28",
+      "prioridade": 1
+    }
+  ]
 }

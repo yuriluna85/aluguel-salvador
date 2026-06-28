@@ -1,0 +1,6 @@
+﻿id,plataforma,cidade,bairro,titulo,preco_aluguel,quartos,area_m2,status,data_descoberta,data_atualizacao,link
+olx_salvador_pituba_01,OLX,Salvador,Pituba,Casa duplex 3 quartos com suíte e garagem privativa,2800.0,3,120.0,ativo,2026-06-28,2026-06-28,https://ba.olx.com.br/grande-salvador/imoveis/aluguel-casa-pituba-3-quartos-12345678
+chavena_mao_lauro_01,Chave na Mão,Lauro de Freitas,Buraquinho,Casa em condomínio fechado perto da praia de Buraquinho,3200.0,4,150.0,ativo,2026-06-28,2026-06-28,https://www.chavenamao.com.br/imovel/aluguel-casa-lauro-de-freitas-4-quartos/id-987654/
+vivareal_salvador_imbui_01,VivaReal,Salvador,Imbuí,Casa térrea com quintal amplo e 2 vagas de garagem,2300.0,3,110.0,ativo,2026-06-28,2026-06-28,https://www.vivareal.com.br/imovel/casa-3-quartos-imbui-salvador-110m2-id-456789/
+olx_santo_amaro_centro_01,OLX,Santo Amaro,Centro,Casa espaçosa 3 quartos próxima ao centro histórico,1600.0,3,130.0,ativo,2026-06-28,2026-06-28,https://ba.olx.com.br/regiao-de-feira-de-santana-e-santo-amaro/imoveis/casa-aluguel-santo-amaro-3-quartos-777888/
+olx_salvador_barra_antigo,OLX,Salvador,Barra,Apartamento vista mar 2 quartos (Alugado),3500.0,2,85.0,alugado,2026-06-15,2026-06-28,https://ba.olx.com.br/grande-salvador/imoveis/aluguel-barra-2-quartos-old
