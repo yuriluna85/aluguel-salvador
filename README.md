@@ -1,30 +1,49 @@
-# 🏡 Busca Imóveis Salvador & Cidades Próximas (Comutação Diária)
+# 🏡 Busca Imóveis Salvador & Cidades Próximas (Apenas Casas)
 > **Projeto desenvolvido sob a chancela 🔬 YLuna85 LABs**
 
-Aplicação automatizada para raspagem, consolidação, histórico CSV e monitoramento de anúncios de aluguel.
+Aplicação automatizada para raspagem, consolidação e monitoramento estrito de **CASAS** para aluguel.
 
-### 🎯 Diretrizes Geográficas
+### 🎯 Diretrizes Geográficas e Filtros
+* **Filtro Rígido**: Apenas casas (apartamentos ignorados).
 * **Prioridade 1 (Capital)**: Salvador/BA e seus bairros.
 * **Prioridade 2 (Comutação Diária)**: Lauro de Freitas, Santo Amaro, Simões Filho, Camaçari, Candeias, São Francisco do Conde e Dias d'Ávila.
 
 ---
 
-## 📍 Anúncios Ativos Monitorados (28/06/2026)
+## 📍 Casas Ativas Monitoradas (28/06/2026)
 
 | Prioridade | Plataforma | Cidade / Bairro | Título / Descrição | Preço Aluguel | Status | Link do Anúncio |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ⭐ Capital | VivaReal | Salvador - Imbuí | Casa térrea com quintal amplo e 2 vagas de garagem | R$ 2.300,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.vivareal.com.br/imovel/casa-3-quartos-imbui-salvador-110m2-id-456789/) |
-| ⭐ Capital | OLX | Salvador - Pituba | Casa duplex 3 quartos com suíte e garagem privativa | R$ 2.800,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://ba.olx.com.br/grande-salvador/imoveis/aluguel-casa-pituba-3-quartos-12345678) |
-| 🚗 Comutação | OLX | Santo Amaro - Centro | Casa espaçosa 3 quartos próxima ao centro histórico | R$ 1.600,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://ba.olx.com.br/regiao-de-feira-de-santana-e-santo-amaro/imoveis/casa-aluguel-santo-amaro-3-quartos-777888/) |
-| 🚗 Comutação | Chave na Mão | Lauro de Freitas - Buraquinho | Casa em condomínio fechado perto da praia de Buraquinho | R$ 3.200,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.chavenamao.com.br/imovel/aluguel-casa-lauro-de-freitas-4-quartos/id-987654/) |
+| ⭐ Capital | OLX | Salvador - Geral | Casas para alugar - Salvador, BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/grande-salvador/salvador) |
+| ⭐ Capital | OLX | Salvador - Brotas | Casas para alugar - Brotas, Salvador - BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/grande-salvador/salvador/brotas) |
+| ⭐ Capital | OLX | Salvador - Cabula | Casas para alugar - Cabula Vi, Salvador - BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/grande-salvador/salvador/cabula-vi) |
+| ⭐ Capital | OLX | Salvador - Cabula | Casas com 3 quartos para alugar - Cabula Vi, Salvador - BA | R$ 1.300,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/3-quartos/estado-ba/grande-salvador/salvador/cabula-vi) |
+| ⭐ Capital | OLX | Salvador - Cabula | Imóveis com 2 quartos para alugar - Cabula, Salvador - BA | R$ 3.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/2-quartos/estado-ba/grande-salvador/salvador/cabula) |
+| 🚗 Comutação | OLX | Lauro de Freitas - Buraquinho | Casas para alugar - Lauro de Freitas, Grande Salvador - BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
+| 🚗 Comutação | OLX | Lauro de Freitas - Geral | Imóveis com 3 quartos para alugar - Lauro de Freitas, Grande ... | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/3-quartos/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
+| 🚗 Comutação | OLX | Santo Amaro - Geral | Casas à venda - Santo Amaro, BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/venda/casas/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro) |
+| 🚗 Comutação | OLX | Camaçari - Geral | Casas com 3 quartos para alugar - Camaçari, Grande Salvador - BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/3-quartos/estado-ba/grande-salvador/grande-salvador/camacari) |
+| 🚗 Comutação | OLX | Camaçari - Barra | Casa de praia, Jauá, próximo a Barraca da Oca - Temporada | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://ba.olx.com.br/grande-salvador/temporada/casa-de-praia-jaua-proximo-a-barraca-da-oca-1496462706) |
+| 🚗 Comutação | OLX | Santo Amaro - Geral | "santo amaro bahia" no Brasil | R$ 350,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/anuncios/santo-amaro-bahia) |
+| 🚗 Comutação | OLX | Lauro de Freitas - Buraquinho | condomínios em lauro de freitas para alugar | R$ 5.350,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/anuncios/condominios-em-lauro-de-freitas-para-alugar) |
+| 🚗 Comutação | OLX | Lauro de Freitas - Buraquinho | casas para alugar em lauro de freitas com piscina | R$ 5.350,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/anuncios/casas-para-alugar-em-lauro-de-freitas-com-piscina) |
+| 🚗 Comutação | OLX | Camaçari - Busca Vida | Casas com 2 quartos para alugar - Camaçari, Grande Salvador - BA | R$ 5.500,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/2-quartos/estado-ba/grande-salvador/grande-salvador/camacari) |
+| 🚗 Comutação | OLX | Camaçari - Busca Vida | Casa de condomínio com 2 quartos para alugar - Camaçari, Grande ... | R$ 5.500,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/casas-de-condominio/2-quartos/estado-ba/grande-salvador/grande-salvador/camacari) |
+| 🚗 Comutação | OLX | Camaçari - Centro | Casas com 5 ou mais quartos para alugar - Camaçari, Grande ... | R$ 6.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/5-ou-mais-quartos/estado-ba/grande-salvador/grande-salvador/camacari) |
+| 🚗 Comutação | OLX | Santo Amaro - Geral | Imóveis para alugar - Santo Amaro, Recife - PE | R$ 9.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-pe/grande-recife/recife/santo-amaro) |
+| 🚗 Comutação | OLX | Lauro de Freitas - Vilas do Atlântico | Imóveis com 3 quartos para alugar - Lauro de Freitas, Grande ... | R$ 16.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/3-quartos/mobiliado/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
+| 🚗 Comutação | OLX | Camaçari - Busca Vida | Casas para alugar - Camaçari, Grande Salvador - BA | R$ 17.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/grande-salvador/grande-salvador/camacari) |
+| 🚗 Comutação | OLX | Camaçari - Busca Vida | Imóveis para alugar - Camaçari, Grande Salvador - BA | R$ 17.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/grande-salvador/camacari) |
+| 🚗 Comutação | OLX | Camaçari - Busca Vida | Casas para alugar - Camaçari, Grande Salvador - BA | R$ 35.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/churrasqueira/estado-ba/grande-salvador/grande-salvador/camacari) |
+| 🚗 Comutação | OLX | Santo Amaro - Geral | Casas com 2 quartos à venda - Santo Amaro, BA | R$ 75.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/venda/casas/2-quartos/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro) |
 
 ---
 
 ## 📊 Histórico e Arquivos Gerados
 * **JSON Estruturado para HTML**: `data/anuncios_imoveis_salvador.json`
-* **Histórico Completo em CSV**: `data/historico_imoveis.csv` (5 registros totais)
+* **Histórico Completo em CSV**: `data/historico_imoveis.csv` (22 registros totais)
 
 ---
 
 ## 📜 Log de Atualizações (Changelog)
-* **28/06/2026**: Implementação da exportação automática de histórico em CSV (`historico_imoveis.csv`), controle de ciclo de vida do anúncio (Ativo vs. Alugado/Indisponível) e JSON otimizado para o frontend.
+* **28/06/2026**: Higienização completa da base (removidos testes iniciais), aplicação de filtro rígido exclusivo para CASAS (apartamentos descartados) e raspagem real via Serper API.
