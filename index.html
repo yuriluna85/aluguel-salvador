@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Painel de Monitoramento de Imóveis para Aluguel em Salvador e Cidades Próximas - YLuna85 LABs">
+    <title>Busca Imóveis Salvador & RM | YLuna85 LABs</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- CSS Estilos -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Accessibility Bar -->
+    <aside class="a11y-bar" aria-label="Controles de Acessibilidade">
+        <div class="container a11y-container">
+            <span class="a11y-label">Acessibilidade:</span>
+            <button id="btn-font-decrease" aria-label="Diminuir tamanho da fonte" title="Diminuir fonte">A-</button>
+            <button id="btn-font-reset" aria-label="Restaurar tamanho da fonte" title="Fonte normal">A</button>
+            <button id="btn-font-increase" aria-label="Aumentar tamanho da fonte" title="Aumentar fonte">A+</button>
+            <button id="btn-contrast-toggle" aria-label="Alternar modo de alto contraste" title="Alto contraste">
+                <span class="contrast-icon">🌓</span> Alto Contraste
+            </button>
+        </div>
+    </aside>
+
+    <!-- Header Principal -->
+    <header class="main-header">
+        <div class="container header-container">
+            <div class="brand-box">
+                <div class="brand-badge">🔬 YLuna85 LABs</div>
+                <h1 class="main-title">Aluguel Salvador <span>& Comutação Diária</span></h1>
+                <p class="subtitle">Monitoramento inteligente e histórico de casas e apartamentos para alugar em Salvador e Região.</p>
+            </div>
+            <div class="header-stats" id="header-stats-box">
+                <!-- Metrics inserted by JS -->
+            </div>
+        </div>
+    </header>
+
+    <!-- Container Principal -->
+    <main class="container main-content">
+        <!-- Abas de Categoria (Ativos vs Histórico) -->
+        <div class="tabs-container" role="tablist" aria-label="Status dos Imóveis">
+            <button class="tab-button active" id="tab-ativos" role="tab" aria-selected="true" aria-controls="imoveis-grid">
+                🟢 Imóveis Disponíveis <span id="count-badge-ativos" class="badge">0</span>
+            </button>
+            <button class="tab-button" id="tab-indisponiveis" role="tab" aria-selected="false" aria-controls="imoveis-grid">
+                🔴 Histórico (Alugados / Expirei) <span id="count-badge-indisponiveis" class="badge">0</span>
+            </button>
+        </div>
+
+        <!-- Filtros e Controles -->
+        <section class="filters-section" aria-labelledby="filters-heading">
+            <h2 id="filters-heading" class="sr-only">Filtros de Busca</h2>
+            <div class="filters-grid">
+                <!-- Busca Textual -->
+                <div class="filter-group search-group">
+                    <label for="search-input">Buscar por palavra-chave</label>
+                    <div class="input-wrapper">
+                        <span class="search-icon">🔍</span>
+                        <input type="text" id="search-input" placeholder="Ex: Pituba, condomínio, suíte..." aria-label="Campo de busca por palavra-chave">
+                    </div>
+                </div>
+
+                <!-- Filtro por Cidade / Escopo -->
+                <div class="filter-group">
+                    <label for="select-cidade">Localização / Escopo</label>
+                    <select id="select-cidade" aria-label="Filtrar por cidade">
+                        <option value="todas">Todas as Localidades</option>
+                        <option value="salvador">⭐ Salvador (Capital)</option>
+                        <option value="comutacao">🚗 Comutação Diária (RM/Recôncavo)</option>
+                        <option value="Lauro de Freitas">Lauro de Freitas</option>
+                        <option value="Santo Amaro">Santo Amaro</option>
+                        <option value="Camaçari">Camaçari</option>
+                    </select>
+                </div>
+
+                <!-- Filtro por Plataforma -->
+                <div class="filter-group">
+                    <label for="select-plataforma">Plataforma de Vitrine</label>
+                    <select id="select-plataforma" aria-label="Filtrar por plataforma">
+                        <option value="todas">Todas as Plataformas</option>
+                        <option value="OLX">OLX</option>
+                        <option value="VivaReal">VivaReal</option>
+                        <option value="Chave na Mão">Chave na Mão</option>
+                        <option value="Zap Imóveis">Zap Imóveis</option>
+                    </select>
+                </div>
+
+                <!-- Ordenação -->
+                <div class="filter-group">
+                    <label for="select-ordem">Ordenar Resultados</label>
+                    <select id="select-ordem" aria-label="Ordenar resultados">
+                        <option value="prioridade">Prioridade (Capital Primeiro)</option>
+                        <option value="preco-asc">Preço: Menor para Maior</option>
+                        <option value="preco-desc">Preço: Maior para Menor</option>
+                        <option value="recentes">Mais Recentes</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <!-- Grade de Resultados -->
+        <section class="results-section" aria-labelledby="results-heading">
+            <div class="results-header">
+                <h2 id="results-heading" class="section-title">Anúncios Exibidos <span id="results-count">(0)</span></h2>
+                <div class="last-update" id="update-timestamp">Sincronizado com JSON & CSV</div>
+            </div>
+
+            <div id="imoveis-grid" class="imoveis-grid" aria-live="polite">
+                <!-- Dynamic cards rendered by JS -->
+            </div>
+
+            <div id="no-results" class="no-results hidden">
+                <div class="no-results-icon">🛖</div>
+                <h3>Nenhum imóvel encontrado nesta categoria</h3>
+                <p>Tente ajustar os filtros de busca ou alternar entre os imóveis disponíveis e o histórico.</p>
+            </div>
+        </section>
+    </main>
+
+    <!-- Rodapé -->
+    <footer class="main-footer">
+        <div class="container footer-container">
+            <div class="footer-brand">
+                <span class="footer-seal">🔬 YLuna85 LABs</span>
+                <p>Automação, Histórico CSV e Engenharia de Dados para Busca de Imóveis</p>
+            </div>
+            <p class="copyright">&copy; 2026 Yuri Luna. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <!-- JS Scripts -->
+    <script src="app.js"></script>
+</body>
+</html>
