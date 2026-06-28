@@ -46,6 +46,7 @@ Aplicação automatizada para raspagem multi-vitrine com links diretos de anúnc
 | ⭐ Capital | VivaReal | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador) |
 | ⭐ Capital | VivaReal | Salvador - Geral | Imóveis para alugar em Salvador, BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.netimoveis.com/locacao/bahia/salvador/) |
 | ⭐ Capital | QuintoAndar | Salvador - Geral | Realizei o sonho da casa própria recentemente…achei ... | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.instagram.com/reel/DNBl9YMPzmP/) |
+| ⭐ Capital | VivaReal | Salvador - Geral | Casas com Quintal para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/quintal/) |
 | ⭐ Capital | OLX | Salvador - Brotas | Imóveis com 1 quarto para alugar | R$ 400,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/1-quarto/estado-ba/grande-salvador/salvador/brotas) |
 | ⭐ Capital | OLX | Salvador - Cabula | Casas com 3 quartos para alugar - Cabula Vi, Salvador - BA | R$ 1.300,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/3-quartos/estado-ba/grande-salvador/salvador/cabula-vi) |
 | ⭐ Capital | VivaReal | Salvador - Geral | 15 imóveis ville para alugar em Salvador | R$ 1.490,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://imoveis.trovit.com.br/aluguel-salvador-ville) |
@@ -111,6 +112,7 @@ Aplicação automatizada para raspagem multi-vitrine com links diretos de anúnc
 | 🚗 Comutação | OLX | Santo Amaro - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/piscina/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro) |
 | 🚗 Comutação | OLX | Santo Amaro - Geral | Quartos para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/aluguel-de-quartos/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro) |
 | 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | Casas com 2 quartos para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/2-quartos/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
+| 🚗 Comutação | VivaReal | Lauro de Freitas - Buraquinho | Casas para alugar Lauro de Freitas | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://portal.kenlo.com.br/imoveis/para-alugar/casa/lauro-de-freitas) |
 | 🚗 Comutação | OLX | Santo Amaro - Geral | "santo amaro bahia" no Brasil | R$ 350,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/anuncios/santo-amaro-bahia) |
 | 🚗 Comutação | OLX | Camaçari - Jauá | "aluguel de casas em jauá com piscina" - Casas para alugar no Brasil | R$ 350,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/anuncios/aluguel-de-casas-em-jaua-com-piscina) |
 | 🚗 Comutação | OLX | Camaçari - Jauá | Encontramos "casas em jauá para alugar com piscina" | R$ 350,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/anuncios/casas-em-jaua-para-alugar-com-piscina) |
@@ -159,7 +161,7 @@ Aplicação automatizada para raspagem multi-vitrine com links diretos de anúnc
 
 ## 📊 Histórico e Arquivos CSV Segmentados por Plataforma e Ano
 * **JSON Estruturado para HTML**: `data/anuncios_imoveis_salvador.json`
-* **Arquivos CSV Segmentados**: `data/olx_2026.csv`, `data/vivareal_2026.csv`, `data/quintoandar_2026.csv`, `data/zap_imoveis_2026.csv`, etc. (139 registros totais)
+* **Arquivos CSV Segmentados**: `data/olx_2026.csv`, `data/vivareal_2026.csv`, `data/quintoandar_2026.csv`, `data/zap_imoveis_2026.csv`, etc. (141 registros totais)
 
 ---
 

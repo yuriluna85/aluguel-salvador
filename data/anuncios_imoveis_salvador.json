@@ -1,9 +1,9 @@
 {
   "metadados": {
-    "ultima_atualizacao": "2026-06-28 13:34:32",
-    "total_ativos": 139,
+    "ultima_atualizacao": "2026-06-28 16:51:42",
+    "total_ativos": 141,
     "total_indisponiveis": 0,
-    "total_historico": 139
+    "total_historico": 141
   },
   "ativos": [
     {
@@ -2090,6 +2090,36 @@
       "status": "ativo",
       "data_atualizacao": "2026-06-28",
       "prioridade": 1
+    },
+    {
+      "id": "vivareal_ind_d149f99bf4",
+      "titulo": "Casas com Quintal para alugar",
+      "plataforma": "VivaReal",
+      "preco_aluguel": 0.0,
+      "cidade": "Salvador",
+      "bairro": "Geral",
+      "quartos": 3,
+      "area_m2": 120.0,
+      "link": "https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/quintal/",
+      "data_descoberta": "2026-06-28",
+      "status": "ativo",
+      "data_atualizacao": "2026-06-28",
+      "prioridade": 1
+    },
+    {
+      "id": "vivareal_ind_e8d37a1a4b",
+      "titulo": "Casas para alugar Lauro de Freitas",
+      "plataforma": "VivaReal",
+      "preco_aluguel": 0.0,
+      "cidade": "Lauro de Freitas",
+      "bairro": "Buraquinho",
+      "quartos": 3,
+      "area_m2": 120.0,
+      "link": "https://portal.kenlo.com.br/imoveis/para-alugar/casa/lauro-de-freitas",
+      "data_descoberta": "2026-06-28",
+      "status": "ativo",
+      "data_atualizacao": "2026-06-28",
+      "prioridade": 2
     }
   ],
   "indisponiveis": []
