@@ -1,7 +1,10 @@
 ﻿id,plataforma,cidade,bairro,titulo,preco_aluguel,quartos,area_m2,status,data_descoberta,data_atualizacao,link
-zap_imoveis_ind_60487c0e7c,Zap Imóveis,Salvador,Geral,Imóveis para alugar,0.0,3,120.0,ativo,2026-06-29,2026-06-29,https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador/
-zap_imoveis_ind_b4b7641e70,Zap Imóveis,Salvador,Geral,Casas para alugar,7968.0,3,120.0,ativo,2026-06-29,2026-06-29,https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/
-zap_imoveis_ind_6b1d1418cd,Zap Imóveis,Salvador,Barra,Imóveis para alugar,0.0,3,120.0,ativo,2026-06-29,2026-06-29,https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador++barra/
+zap_imoveis_ind_60487c0e7c,Zap Imóveis,Salvador,Geral,Imóveis para alugar,0.0,3,120.0,ativo,2026-06-30,2026-06-30,https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador/
+zap_imoveis_ind_b4b7641e70,Zap Imóveis,Salvador,Geral,Casas para alugar,7960.0,3,120.0,ativo,2026-06-30,2026-06-30,https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/
+zap_imoveis_ind_59575d6016,Zap Imóveis,Salvador,Geral,Imóveis para alugar no Brasil,0.0,3,120.0,ativo,2026-06-30,2026-06-30,https://www.zapimoveis.com.br/aluguel/
+zap_imoveis_ind_6b1d1418cd,Zap Imóveis,Salvador,Barra,Imóveis para alugar,0.0,3,120.0,ativo,2026-06-30,2026-06-30,https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador++barra/
+zap_imoveis_ind_eb1b650fa5,Zap Imóveis,Salvador,Caminho das Árvores,Imóveis para alugar,0.0,3,120.0,ativo,2026-06-30,2026-06-30,https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador++caminho-das-arvores/
+zap_imoveis_ind_860e5693f5,Zap Imóveis,Salvador,Geral,Imóveis para alugar,0.0,3,120.0,ativo,2026-06-30,2026-06-30,https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador++liberdade/
 zap_imoveis_ind_59ce07c7f1,Zap Imóveis,Salvador,Geral,"Casas para alugar em Salvador, BA",1500.0,3,120.0,ativo,2026-06-29,2026-06-29,https://www.vivareal.com.br/aluguel/bahia/salvador/casa_residencial/
 zap_imoveis_ind_1b11864ce4,Zap Imóveis,Salvador,Geral,"443 Casas para alugar em Salvador, BA",0.0,3,120.0,ativo,2026-06-29,2026-06-29,https://www.imovelweb.com.br/casas-aluguel-salvador-ba.html
 zap_imoveis_ind_dde513950a,Zap Imóveis,Salvador,Geral,"Imóveis para alugar em Salvador, BA",0.0,3,120.0,ativo,2026-06-29,2026-06-29,https://www.netimoveis.com/locacao/bahia/salvador/
@@ -10,5 +13,3 @@ zap_imoveis_8fa5fb61a9,Zap Imóveis,Lauro de Freitas,Geral,Casas para alugar,651
 zap_imoveis_74d50b0cc5,Zap Imóveis,Lauro de Freitas,Geral,Casas para alugar,0.0,3,120.0,ativo,2026-06-28,2026-06-28,https://www.zapimoveis.com.br/aluguel/casas/ba+lauro-de-freitas++pitangueiras/
 zap_imoveis_3d850d297a,Zap Imóveis,Lauro de Freitas,Buraquinho,Casas com 2 quartos para alugar,0.0,3,120.0,ativo,2026-06-28,2026-06-28,https://www.zapimoveis.com.br/aluguel/casas/ba+lauro-de-freitas/2-quartos/
 zap_imoveis_444f85d36d,Zap Imóveis,Lauro de Freitas,Geral,"58 Imóveis para alugar em Ipitanga, Lauro de Freitas",0.0,3,120.0,ativo,2026-06-28,2026-06-28,https://www.zapimoveis.com.br/aluguel/imoveis/ba+lauro-de-freitas++ipitanga/
-zap_imoveis_ind_59575d6016,Zap Imóveis,Salvador,Geral,Imóveis para alugar no Brasil,0.0,3,120.0,ativo,2026-06-28,2026-06-28,https://www.zapimoveis.com.br/aluguel/
-zap_imoveis_ind_eb1b650fa5,Zap Imóveis,Salvador,Caminho das Árvores,Imóveis para alugar,0.0,3,120.0,ativo,2026-06-28,2026-06-28,https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador++caminho-das-arvores/

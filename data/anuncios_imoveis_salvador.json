@@ -1,9 +1,9 @@
 {
   "metadados": {
-    "ultima_atualizacao": "2026-06-29 13:57:56",
-    "total_ativos": 152,
+    "ultima_atualizacao": "2026-06-30 12:04:10",
+    "total_ativos": 160,
     "total_indisponiveis": 0,
-    "total_historico": 152
+    "total_historico": 160
   },
   "ativos": [
     {
@@ -1111,9 +1111,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador",
-      "data_descoberta": "2026-06-28",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-28",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -1126,9 +1126,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/centro",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -1186,9 +1186,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/grande-salvador/salvador/brotas",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -1216,9 +1216,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/aluguel/1-quarto/estado-ba/grande-salvador/salvador/campinas-de-brotas",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -1231,9 +1231,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -1242,13 +1242,13 @@
       "plataforma": "OLX",
       "preco_aluguel": 0.0,
       "cidade": "Lauro de Freitas",
-      "bairro": "Buraquinho",
+      "bairro": "Geral",
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -1261,9 +1261,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/anuncios/casas-para-alugar-em-lauro-de-freitas-com-piscina",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -1321,24 +1321,24 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/anuncios/condominios-em-lauro-de-freitas-para-alugar",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
       "id": "olx_ind_f50b1ea929",
       "titulo": "Imóveis para temporada",
       "plataforma": "OLX",
-      "preco_aluguel": 750.0,
+      "preco_aluguel": 2000.0,
       "cidade": "Lauro de Freitas",
-      "bairro": "Vilas do Atlântico",
+      "bairro": "Geral",
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/temporada/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas",
-      "data_descoberta": "2026-06-28",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-28",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -1381,9 +1381,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/venda/casas/2-quartos/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -1396,9 +1396,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -1411,9 +1411,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/anuncios/santo-amaro-bahia",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -1426,9 +1426,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/aluguel/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -1456,9 +1456,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/terrenos/sitios-e-chacaras/aluguel/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro",
-      "data_descoberta": "2026-06-28",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-28",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -1495,15 +1495,15 @@
       "id": "vivareal_ind_59ce07c7f1",
       "titulo": "Casas para alugar em Salvador, BA",
       "plataforma": "VivaReal",
-      "preco_aluguel": 0.0,
+      "preco_aluguel": 1500.0,
       "cidade": "Salvador",
-      "bairro": "Stella Maris",
+      "bairro": "Geral",
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.vivareal.com.br/aluguel/bahia/salvador/casa_residencial/",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -1516,39 +1516,39 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.vivareal.com.br/aluguel/",
-      "data_descoberta": "2026-06-28",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-28",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
       "id": "vivareal_ind_b4b7641e70",
       "titulo": "Casas para alugar",
       "plataforma": "VivaReal",
-      "preco_aluguel": 7968.0,
+      "preco_aluguel": 7960.0,
       "cidade": "Salvador",
       "bairro": "Geral",
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
       "id": "vivareal_ind_1b11864ce4",
-      "titulo": "443 Casas para alugar em Salvador, BA",
+      "titulo": "447 Casas para alugar em Salvador, BA",
       "plataforma": "VivaReal",
-      "preco_aluguel": 0.0,
+      "preco_aluguel": 4000.0,
       "cidade": "Salvador",
       "bairro": "Geral",
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.imovelweb.com.br/casas-aluguel-salvador-ba.html",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -1561,9 +1561,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.vivareal.com.br/aluguel/bahia/salvador/bairros/alphaville-i/casa_residencial/com-recepcao/",
-      "data_descoberta": "2026-06-28",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-28",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -1585,35 +1585,35 @@
       "id": "vivareal_ind_253eea4220",
       "titulo": "Casas para alugar em Lauro de Freitas, BA",
       "plataforma": "VivaReal",
-      "preco_aluguel": 0.0,
+      "preco_aluguel": 6.0,
       "cidade": "Lauro de Freitas",
       "bairro": "Geral",
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.vivareal.com.br/aluguel/bahia/lauro-de-freitas/casa_residencial/",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
       "id": "vivareal_ind_8fa5fb61a9",
       "titulo": "Casas para alugar",
       "plataforma": "VivaReal",
-      "preco_aluguel": 6493.0,
+      "preco_aluguel": 2750.0,
       "cidade": "Lauro de Freitas",
       "bairro": "Geral",
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.zapimoveis.com.br/aluguel/casas/ba+lauro-de-freitas/",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
       "id": "vivareal_ind_d255295bd3",
-      "titulo": "378 Casas para alugar em Lauro de Freitas, BA",
+      "titulo": "376 Casas para alugar em Lauro de Freitas, BA",
       "plataforma": "VivaReal",
       "preco_aluguel": 0.0,
       "cidade": "Lauro de Freitas",
@@ -1621,9 +1621,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.imovelweb.com.br/casas-aluguel-lauro-de-freitas-ba.html",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -1636,24 +1636,24 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
       "id": "vivareal_ind_bd58e83adc",
       "titulo": "714 casas condominio fechado para alugar em Lauro de Freitas",
       "plataforma": "VivaReal",
-      "preco_aluguel": 4500.0,
+      "preco_aluguel": 1000.0,
       "cidade": "Lauro de Freitas",
       "bairro": "Geral",
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://imoveis.trovit.com.br/aluguel-lauro-freitas-casa-condominio-fechado",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -1666,9 +1666,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.cozycozy.com/br/aluguel-temporada-lauro-de-freitas",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -1696,9 +1696,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.instagram.com/p/DRQBq3_gem7/",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -1711,24 +1711,24 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador/",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
       "id": "zap_imoveis_ind_b4b7641e70",
       "titulo": "Casas para alugar",
       "plataforma": "Zap Imóveis",
-      "preco_aluguel": 7968.0,
+      "preco_aluguel": 7960.0,
       "cidade": "Salvador",
       "bairro": "Geral",
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -1741,9 +1741,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.zapimoveis.com.br/aluguel/",
-      "data_descoberta": "2026-06-28",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-28",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -1756,9 +1756,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador++barra/",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -1771,9 +1771,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador++caminho-das-arvores/",
-      "data_descoberta": "2026-06-28",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-28",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -1786,9 +1786,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://play.google.com/store/apps/details?id=br.com.quintoandar.inquilinos&hl=pt_BR",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -1801,9 +1801,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.quintoandar.com.br/",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -1831,9 +1831,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.reclameaqui.com.br/empresa/quinto-andar/",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -1846,9 +1846,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.casamineira.com.br/aluguel/casa/ibirite_mg/2-vagas",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -1906,9 +1906,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/aluguel/2-quartos/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -1921,9 +1921,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/aluguel/3-quartos/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas",
-      "data_descoberta": "2026-06-28",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-28",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -1936,9 +1936,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/aluguel/piscina/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -2020,15 +2020,15 @@
       "id": "vivareal_ind_3cb73368e6",
       "titulo": "aluguel de casas em Lauro de Freitas",
       "plataforma": "VivaReal",
-      "preco_aluguel": 950.0,
+      "preco_aluguel": 0.0,
       "cidade": "Lauro de Freitas",
       "bairro": "Geral",
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.facebook.com/groups/731537695066926/",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -2101,9 +2101,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/quintal/",
-      "data_descoberta": "2026-06-28",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-28",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -2131,9 +2131,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/bonfim",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -2161,9 +2161,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/sao-caetano",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     },
     {
@@ -2206,9 +2206,9 @@
       "quartos": 3,
       "area_m2": 120.0,
       "link": "https://www.chavesnamao.com.br/casas-para-alugar/ba-lauro-de-freitas/",
-      "data_descoberta": "2026-06-29",
+      "data_descoberta": "2026-06-30",
       "status": "ativo",
-      "data_atualizacao": "2026-06-29",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 2
     },
     {
@@ -2284,6 +2284,126 @@
       "data_descoberta": "2026-06-29",
       "status": "ativo",
       "data_atualizacao": "2026-06-29",
+      "prioridade": 1
+    },
+    {
+      "id": "olx_ind_afdb637d9b",
+      "titulo": "Imóveis para alugar",
+      "plataforma": "OLX",
+      "preco_aluguel": 0.0,
+      "cidade": "Salvador",
+      "bairro": "Brotas",
+      "quartos": 3,
+      "area_m2": 120.0,
+      "link": "https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/brotas",
+      "data_descoberta": "2026-06-30",
+      "status": "ativo",
+      "data_atualizacao": "2026-06-30",
+      "prioridade": 1
+    },
+    {
+      "id": "olx_ind_f0b4071a2e",
+      "titulo": "Imóveis para alugar",
+      "plataforma": "OLX",
+      "preco_aluguel": 0.0,
+      "cidade": "Salvador",
+      "bairro": "Geral",
+      "quartos": 3,
+      "area_m2": 120.0,
+      "link": "https://www.olx.com.br/imoveis/aluguel/mobiliado/estado-ba/grande-salvador",
+      "data_descoberta": "2026-06-30",
+      "status": "ativo",
+      "data_atualizacao": "2026-06-30",
+      "prioridade": 1
+    },
+    {
+      "id": "olx_ind_6b3d0afb6f",
+      "titulo": "Imóveis para temporada",
+      "plataforma": "OLX",
+      "preco_aluguel": 300.0,
+      "cidade": "Santo Amaro",
+      "bairro": "Geral",
+      "quartos": 3,
+      "area_m2": 120.0,
+      "link": "https://www.olx.com.br/imoveis/temporada/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/acupe-santo-amaro",
+      "data_descoberta": "2026-06-30",
+      "status": "ativo",
+      "data_atualizacao": "2026-06-30",
+      "prioridade": 2
+    },
+    {
+      "id": "olx_ind_a09ec22653",
+      "titulo": "Imóveis para alugar em Santo Amaro, Santo Amaro BA",
+      "plataforma": "OLX",
+      "preco_aluguel": 0.0,
+      "cidade": "Santo Amaro",
+      "bairro": "Geral",
+      "quartos": 3,
+      "area_m2": 120.0,
+      "link": "https://www.felizcasanova.com.br/imoveis/para-alugar/santo-amaro-santo-amaro-ba?search_name=Santo+Amaro&localidade=Santo+Amaro%2C+BA&order=menor_preco",
+      "data_descoberta": "2026-06-30",
+      "status": "ativo",
+      "data_atualizacao": "2026-06-30",
+      "prioridade": 2
+    },
+    {
+      "id": "vivareal_ind_74bf60df20",
+      "titulo": "Casa em loteamento para venda Área do terreno 1.764 ...",
+      "plataforma": "VivaReal",
+      "preco_aluguel": 0.0,
+      "cidade": "Lauro de Freitas",
+      "bairro": "Geral",
+      "quartos": 3,
+      "area_m2": 120.0,
+      "link": "https://www.instagram.com/reel/DWbrqL4jZaT/",
+      "data_descoberta": "2026-06-30",
+      "status": "ativo",
+      "data_atualizacao": "2026-06-30",
+      "prioridade": 2
+    },
+    {
+      "id": "zap_imoveis_ind_860e5693f5",
+      "titulo": "Imóveis para alugar",
+      "plataforma": "Zap Imóveis",
+      "preco_aluguel": 0.0,
+      "cidade": "Salvador",
+      "bairro": "Geral",
+      "quartos": 3,
+      "area_m2": 120.0,
+      "link": "https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador++liberdade/",
+      "data_descoberta": "2026-06-30",
+      "status": "ativo",
+      "data_atualizacao": "2026-06-30",
+      "prioridade": 1
+    },
+    {
+      "id": "quintoandar_ind_0eba923676",
+      "titulo": "Receba seu aluguel todo dia 12 🗓️ Os proprietários QuintoAndar ...",
+      "plataforma": "QuintoAndar",
+      "preco_aluguel": 0.0,
+      "cidade": "Salvador",
+      "bairro": "Geral",
+      "quartos": 3,
+      "area_m2": 120.0,
+      "link": "https://www.instagram.com/reel/DaLFnBMRzaS/",
+      "data_descoberta": "2026-06-30",
+      "status": "ativo",
+      "data_atualizacao": "2026-06-30",
+      "prioridade": 1
+    },
+    {
+      "id": "quintoandar_ind_19f288c0e4",
+      "titulo": "9 Casas perto de base comunitaria da policia militar avenida dona ...",
+      "plataforma": "QuintoAndar",
+      "preco_aluguel": 870.0,
+      "cidade": "Salvador",
+      "bairro": "Geral",
+      "quartos": 3,
+      "area_m2": 120.0,
+      "link": "https://www.imovelweb.com.br/casas-aluguel-grajau-sao-paulo-perto-de-iw-base-comunitaria-da-policia-militar-avenida-dona-belmira-marin-2080.html",
+      "data_descoberta": "2026-06-30",
+      "status": "ativo",
+      "data_atualizacao": "2026-06-30",
       "prioridade": 1
     }
   ],

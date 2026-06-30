@@ -11,7 +11,7 @@ Aplicação automatizada para raspagem multi-vitrine com links diretos de anúnc
 
 ---
 
-## 📍 Casas Ativas Monitoradas (29/06/2026)
+## 📍 Casas Ativas Monitoradas (30/06/2026)
 
 | Prioridade | Plataforma | Cidade / Bairro | Título / Descrição | Preço Aluguel | Status | Link do Anúncio |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -21,51 +21,56 @@ Aplicação automatizada para raspagem multi-vitrine com links diretos de anúnc
 | ⭐ Capital | RE/MAX | Salvador - Geral | Bahia, Salvador Imobiliária e Todos os tipos de imóvel Alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.remax.com.br/imoveis-para-alugar-salvador/) |
 | ⭐ Capital | RE/MAX | Salvador - Geral | Bahia, Salvador Imobiliária e Todos os tipos de imóvel Alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.remax.com.br/listings?City=6548880&CityNM=6548880-Bahia%2C+Salvador&ListingClass=-1&TransactionTypeUID=260) |
 | ⭐ Capital | RE/MAX | Salvador - Geral | Bahia, Salvador Residencial Imobiliária e Casa Alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.remax.com.br/aluguel-imoveis-salvador/) |
-| ⭐ Capital | OLX | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador) |
 | ⭐ Capital | OLX | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/liberdade) |
 | ⭐ Capital | OLX | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/ribeira) |
 | ⭐ Capital | OLX | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/mussurunga) |
-| ⭐ Capital | VivaReal | Salvador - Geral | Aluguel de Imóveis | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.vivareal.com.br/aluguel/) |
-| ⭐ Capital | VivaReal | Salvador - Geral | 7 Casas com Recepção para alugar em Alphaville I, Salvador | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.vivareal.com.br/aluguel/bahia/salvador/bairros/alphaville-i/casa_residencial/com-recepcao/) |
-| ⭐ Capital | Zap Imóveis | Salvador - Geral | Imóveis para alugar no Brasil | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/) |
-| ⭐ Capital | Zap Imóveis | Salvador - Caminho das Árvores | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador++caminho-das-arvores/) |
 | ⭐ Capital | QuintoAndar | Salvador - Geral | Encontrar o lugar perfeito para chamar de lar pode parecer uma ... | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.instagram.com/p/C7j1q48xFW7/) |
 | ⭐ Capital | OLX | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/uruguai) |
 | ⭐ Capital | VivaReal | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador) |
 | ⭐ Capital | QuintoAndar | Salvador - Geral | Realizei o sonho da casa própria recentemente…achei ... | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.instagram.com/reel/DNBl9YMPzmP/) |
-| ⭐ Capital | VivaReal | Salvador - Geral | Casas com Quintal para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/quintal/) |
 | ⭐ Capital | OLX | Salvador - Brotas | Imóveis com 1 quarto para alugar | R$ 400,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/1-quarto/estado-ba/grande-salvador/salvador/brotas) |
 | ⭐ Capital | OLX | Salvador - Cabula | Casas com 3 quartos para alugar - Cabula Vi, Salvador - BA | R$ 1.300,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/3-quartos/estado-ba/grande-salvador/salvador/cabula-vi) |
 | ⭐ Capital | OLX | Salvador - Cabula | Imóveis com 2 quartos para alugar - Cabula, Salvador - BA | R$ 3.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/2-quartos/estado-ba/grande-salvador/salvador/cabula) |
 | ⭐ Capital | OLX | Salvador - Cabula | Casas para alugar - Cabula Vi, Salvador - BA | R$ 5.500,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/churrasqueira/estado-ba/grande-salvador/salvador/cabula-vi) |
 | ⭐ Capital | Zap Imóveis | Salvador - Geral | Casas para alugar | R$ 7.968,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/) |
-| ⭐ Capital | OLX | Salvador - Centro | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/centro) |
-| ⭐ Capital | OLX | Salvador - Brotas | Casas para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/grande-salvador/salvador/brotas) |
-| ⭐ Capital | OLX | Salvador - Brotas | Imóveis com 1 quarto para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/1-quarto/estado-ba/grande-salvador/salvador/campinas-de-brotas) |
-| ⭐ Capital | VivaReal | Salvador - Stella Maris | Casas para alugar em Salvador, BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.vivareal.com.br/aluguel/bahia/salvador/casa_residencial/) |
-| ⭐ Capital | VivaReal | Salvador - Geral | 443 Casas para alugar em Salvador, BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.imovelweb.com.br/casas-aluguel-salvador-ba.html) |
 | ⭐ Capital | VivaReal | Salvador - Geral | Imóveis para alugar em Salvador, BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.vivareal.com.br/aluguel/bahia/salvador/) |
-| ⭐ Capital | Zap Imóveis | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador/) |
-| ⭐ Capital | Zap Imóveis | Salvador - Barra | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador++barra/) |
-| ⭐ Capital | QuintoAndar | Salvador - Geral | QuintoAndar: Aluguel e Compra – Apps no Google Play | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://play.google.com/store/apps/details?id=br.com.quintoandar.inquilinos&hl=pt_BR) |
-| ⭐ Capital | QuintoAndar | Salvador - Geral | Quinto Andar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.quintoandar.com.br/) |
 | ⭐ Capital | QuintoAndar | Salvador - Geral | Receba em dia mesmo se o inquilino atrasar. Com o Pagamento ... | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.instagram.com/reel/DZ5gxjPJuKF/) |
-| ⭐ Capital | QuintoAndar | Salvador - Geral | QuintoAndar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.reclameaqui.com.br/empresa/quinto-andar/) |
 | ⭐ Capital | OLX | Salvador - Brotas | Imóveis | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/estado-ba/grande-salvador/salvador/campinas-de-brotas) |
 | ⭐ Capital | VivaReal | Salvador - Geral | Imóveis para alugar em Salvador, BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.netimoveis.com/locacao/bahia/salvador/) |
-| ⭐ Capital | OLX | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/bonfim) |
 | ⭐ Capital | OLX | Salvador - Boca do Rio | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/boca-do-rio) |
-| ⭐ Capital | OLX | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/sao-caetano) |
 | ⭐ Capital | Zap Imóveis | Salvador - Geral | 443 Casas para alugar em Salvador, BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.imovelweb.com.br/casas-aluguel-salvador-ba.html) |
 | ⭐ Capital | Zap Imóveis | Salvador - Geral | Imóveis para alugar em Salvador, BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.netimoveis.com/locacao/bahia/salvador/) |
 | ⭐ Capital | QuintoAndar | Salvador - Centro | Dados do Índice de Aluguel QuintoAndar Imovelweb mostram que ... | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.instagram.com/p/DURKtw9k803/) |
 | ⭐ Capital | VivaReal | Salvador - Geral | 15 imóveis ville para alugar em Salvador | R$ 1.490,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://imoveis.trovit.com.br/aluguel-salvador-ville) |
 | ⭐ Capital | Zap Imóveis | Salvador - Geral | Casas para alugar em Salvador, BA | R$ 1.500,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.vivareal.com.br/aluguel/bahia/salvador/casa_residencial/) |
 | ⭐ Capital | OLX | Salvador - Brotas | Imóveis com 3 quartos para alugar | R$ 4.700,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/3-quartos/estado-ba/grande-salvador/salvador/brotas) |
-| ⭐ Capital | VivaReal | Salvador - Geral | Casas para alugar | R$ 7.968,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/) |
-| ⭐ Capital | Zap Imóveis | Salvador - Geral | Casas para alugar | R$ 7.968,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/) |
-| ⭐ Capital | QuintoAndar | Salvador - Geral | casas de 2 vagas para alugar em Ibirité | R$ 12.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.casamineira.com.br/aluguel/casa/ibirite_mg/2-vagas) |
 | ⭐ Capital | QuintoAndar | Salvador - Geral | Casa em condomínio fechado com 5 quartos na Rua ... | R$ 13.560,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.chavesnamao.com.br/imovel/casa-em-condominio-para-alugar-5-quartos-com-garagem-ba-salvador-piata-420m2-RS13560/id-31899706/) |
+| ⭐ Capital | OLX | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador) |
+| ⭐ Capital | OLX | Salvador - Centro | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/centro) |
+| ⭐ Capital | OLX | Salvador - Brotas | Casas para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/grande-salvador/salvador/brotas) |
+| ⭐ Capital | OLX | Salvador - Brotas | Imóveis com 1 quarto para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/1-quarto/estado-ba/grande-salvador/salvador/campinas-de-brotas) |
+| ⭐ Capital | VivaReal | Salvador - Geral | Aluguel de Imóveis | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.vivareal.com.br/aluguel/) |
+| ⭐ Capital | VivaReal | Salvador - Geral | 7 Casas com Recepção para alugar em Alphaville I, Salvador | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.vivareal.com.br/aluguel/bahia/salvador/bairros/alphaville-i/casa_residencial/com-recepcao/) |
+| ⭐ Capital | Zap Imóveis | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador/) |
+| ⭐ Capital | Zap Imóveis | Salvador - Geral | Imóveis para alugar no Brasil | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/) |
+| ⭐ Capital | Zap Imóveis | Salvador - Barra | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador++barra/) |
+| ⭐ Capital | Zap Imóveis | Salvador - Caminho das Árvores | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador++caminho-das-arvores/) |
+| ⭐ Capital | QuintoAndar | Salvador - Geral | QuintoAndar: Aluguel e Compra – Apps no Google Play | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://play.google.com/store/apps/details?id=br.com.quintoandar.inquilinos&hl=pt_BR) |
+| ⭐ Capital | QuintoAndar | Salvador - Geral | Quinto Andar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.quintoandar.com.br/) |
+| ⭐ Capital | QuintoAndar | Salvador - Geral | QuintoAndar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.reclameaqui.com.br/empresa/quinto-andar/) |
+| ⭐ Capital | VivaReal | Salvador - Geral | Casas com Quintal para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/quintal/) |
+| ⭐ Capital | OLX | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/bonfim) |
+| ⭐ Capital | OLX | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/sao-caetano) |
+| ⭐ Capital | OLX | Salvador - Brotas | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/salvador/brotas) |
+| ⭐ Capital | OLX | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/mobiliado/estado-ba/grande-salvador) |
+| ⭐ Capital | Zap Imóveis | Salvador - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/imoveis/ba+salvador++liberdade/) |
+| ⭐ Capital | QuintoAndar | Salvador - Geral | Receba seu aluguel todo dia 12 🗓️ Os proprietários QuintoAndar ... | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.instagram.com/reel/DaLFnBMRzaS/) |
+| ⭐ Capital | QuintoAndar | Salvador - Geral | 9 Casas perto de base comunitaria da policia militar avenida dona ... | R$ 870,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.imovelweb.com.br/casas-aluguel-grajau-sao-paulo-perto-de-iw-base-comunitaria-da-policia-militar-avenida-dona-belmira-marin-2080.html) |
+| ⭐ Capital | VivaReal | Salvador - Geral | Casas para alugar em Salvador, BA | R$ 1.500,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.vivareal.com.br/aluguel/bahia/salvador/casa_residencial/) |
+| ⭐ Capital | VivaReal | Salvador - Geral | 447 Casas para alugar em Salvador, BA | R$ 4.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.imovelweb.com.br/casas-aluguel-salvador-ba.html) |
+| ⭐ Capital | VivaReal | Salvador - Geral | Casas para alugar | R$ 7.960,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/) |
+| ⭐ Capital | Zap Imóveis | Salvador - Geral | Casas para alugar | R$ 7.960,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/) |
+| ⭐ Capital | QuintoAndar | Salvador - Geral | casas de 2 vagas para alugar em Ibirité | R$ 12.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.casamineira.com.br/aluguel/casa/ibirite_mg/2-vagas) |
 | 🚗 Comutação | OLX | Lauro de Freitas - Buraquinho | Casas para alugar - Lauro de Freitas, Grande Salvador - BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
 | 🚗 Comutação | OLX | Lauro de Freitas - Buraquinho | condomínios em lauro de freitas para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/anuncios/condominios-em-lauro-de-freitas-para-alugar) |
 | 🚗 Comutação | OLX | Lauro de Freitas - Geral | Imóveis com 3 quartos para alugar - Lauro de Freitas, Grande ... | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/3-quartos/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
@@ -106,7 +111,6 @@ Aplicação automatizada para raspagem multi-vitrine com links diretos de anúnc
 | 🚗 Comutação | OLX | Lauro de Freitas - Buraquinho | Casas para alugar em Buraquinho, Lauro de Freitas | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.vivareal.com.br/aluguel/bahia/lauro-de-freitas/bairros/buraquinho/casa_residencial/) |
 | 🚗 Comutação | OLX | Santo Amaro - Geral | Casas à venda | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/venda/casas/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro) |
 | 🚗 Comutação | VivaReal | Lauro de Freitas - Centro | Casas para alugar em Centro, Lauro de Freitas | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.vivareal.com.br/aluguel/bahia/lauro-de-freitas/bairros/centro/casa_residencial/) |
-| 🚗 Comutação | OLX | Lauro de Freitas - Geral | Imóveis com 3 quartos para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/3-quartos/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
 | 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | Casas com 2 quartos para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/2-quartos/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
 | 🚗 Comutação | VivaReal | Lauro de Freitas - Buraquinho | Casas para alugar Lauro de Freitas | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://portal.kenlo.com.br/imoveis/para-alugar/casa/lauro-de-freitas) |
 | 🚗 Comutação | OLX | Santo Amaro - Geral | "santo amaro bahia" no Brasil | R$ 350,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/anuncios/santo-amaro-bahia) |
@@ -115,8 +119,6 @@ Aplicação automatizada para raspagem multi-vitrine com links diretos de anúnc
 | 🚗 Comutação | OLX | Santo Amaro - Geral | "santo amaro bahia" no Brasil | R$ 350,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/anuncios/santo-amaro-bahia) |
 | 🚗 Comutação | OLX | Camaçari - Barra | Casa para temporada | R$ 499,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/temporada/casas/estado-ba/grande-salvador/grande-salvador/camacari) |
 | 🚗 Comutação | OLX | Camaçari - Geral | Casas com 2 quartos para alugar - Camaçari, Grande Salvador - BA | R$ 500,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/2-quartos/mobiliado/estado-ba/grande-salvador/grande-salvador/camacari) |
-| 🚗 Comutação | OLX | Santo Amaro - Geral | Sítios e chácaras para alugar | R$ 600,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/terrenos/sitios-e-chacaras/aluguel/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro) |
-| 🚗 Comutação | OLX | Lauro de Freitas - Vilas do Atlântico | Imóveis para temporada | R$ 750,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/temporada/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
 | 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | 731 casas condominio para alugar em Lauro de Freitas | R$ 900,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://imoveis.trovit.com.br/aluguel-casa-condominio-lauro-freitas) |
 | 🚗 Comutação | Netimóveis | Lauro de Freitas - Geral | Imóveis para alugar em Montes Claros, MG | R$ 950,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.netimoveis.com/locacao/minas-gerais/montes-claros) |
 | 🚗 Comutação | OLX | Santo Amaro - Geral | 1.498 Casas para alugar em Santo Amaro | R$ 1.030,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://imoveis.mitula.com.br/imoveis/aluguel-casas-santo-amaro) |
@@ -145,34 +147,40 @@ Aplicação automatizada para raspagem multi-vitrine com links diretos de anúnc
 | 🚗 Comutação | OLX | Camaçari - Busca Vida | Casas para alugar - Camaçari, Grande Salvador - BA | R$ 35.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/churrasqueira/estado-ba/grande-salvador/grande-salvador/camacari) |
 | 🚗 Comutação | OLX | Santo Amaro - Geral | Casas com 2 quartos à venda - Santo Amaro, BA | R$ 75.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/venda/casas/2-quartos/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro) |
 | 🚗 Comutação | OLX | Santo Amaro - Geral | Casas com 2 quartos à venda | R$ 75.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/venda/casas/2-quartos/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro) |
+| 🚗 Comutação | OLX | Santo Amaro - Geral | Quartos para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/aluguel-de-quartos/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro) |
+| 🚗 Comutação | OLX | Santo Amaro - Geral | Casas para alugar | R$ 700,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/acupe-santo-amaro) |
+| 🚗 Comutação | OLX | Santo Amaro - Geral | Casa de vila com 3 quartos para alugar | R$ 2.800,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas-de-vila/3-quartos/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/campinhos-santo-amaro) |
 | 🚗 Comutação | OLX | Lauro de Freitas - Buraquinho | Casas para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
-| 🚗 Comutação | OLX | Lauro de Freitas - Buraquinho | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
+| 🚗 Comutação | OLX | Lauro de Freitas - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
 | 🚗 Comutação | OLX | Santo Amaro - Geral | Imóveis | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro) |
 | 🚗 Comutação | OLX | Santo Amaro - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro) |
-| 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | Casas para alugar em Lauro de Freitas, BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.vivareal.com.br/aluguel/bahia/lauro-de-freitas/casa_residencial/) |
-| 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | 378 Casas para alugar em Lauro de Freitas, BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.imovelweb.com.br/casas-aluguel-lauro-de-freitas-ba.html) |
+| 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | 376 Casas para alugar em Lauro de Freitas, BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.imovelweb.com.br/casas-aluguel-lauro-de-freitas-ba.html) |
 | 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | Casas para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
 | 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | Aluguel temporada & Airbnb em Lauro de Freitas | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.cozycozy.com/br/aluguel-temporada-lauro-de-freitas) |
 | 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | Casa de Condomínio Horto Vilas com 4 suites/ piscina/ área ... | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.instagram.com/p/DRQBq3_gem7/) |
 | 🚗 Comutação | OLX | Lauro de Freitas - Geral | Imóveis com 2 quartos para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/2-quartos/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
+| 🚗 Comutação | OLX | Lauro de Freitas - Geral | Imóveis com 3 quartos para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/3-quartos/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
 | 🚗 Comutação | OLX | Santo Amaro - Geral | Imóveis para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/piscina/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro) |
-| 🚗 Comutação | OLX | Santo Amaro - Geral | Quartos para alugar | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/aluguel-de-quartos/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro) |
+| 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | aluguel de casas em Lauro de Freitas | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.facebook.com/groups/731537695066926/) |
+| 🚗 Comutação | OLX | Santo Amaro - Geral | Imóveis para alugar em Santo Amaro, Santo Amaro BA | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.felizcasanova.com.br/imoveis/para-alugar/santo-amaro-santo-amaro-ba?search_name=Santo+Amaro&localidade=Santo+Amaro%2C+BA&order=menor_preco) |
+| 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | Casa em loteamento para venda Área do terreno 1.764 ... | Sob Consulta | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.instagram.com/reel/DWbrqL4jZaT/) |
+| 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | Casas para alugar em Lauro de Freitas, BA | R$ 6,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.vivareal.com.br/aluguel/bahia/lauro-de-freitas/casa_residencial/) |
+| 🚗 Comutação | OLX | Santo Amaro - Geral | Imóveis para temporada | R$ 300,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/temporada/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/acupe-santo-amaro) |
 | 🚗 Comutação | OLX | Santo Amaro - Geral | "santo amaro bahia" no Brasil | R$ 350,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/anuncios/santo-amaro-bahia) |
-| 🚗 Comutação | OLX | Santo Amaro - Geral | Casas para alugar | R$ 700,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/acupe-santo-amaro) |
-| 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | aluguel de casas em Lauro de Freitas | R$ 950,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.facebook.com/groups/731537695066926/) |
-| 🚗 Comutação | OLX | Santo Amaro - Geral | Casa de vila com 3 quartos para alugar | R$ 2.800,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/aluguel/casas-de-vila/3-quartos/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/campinhos-santo-amaro) |
+| 🚗 Comutação | OLX | Santo Amaro - Geral | Sítios e chácaras para alugar | R$ 600,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/terrenos/sitios-e-chacaras/aluguel/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro) |
+| 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | 714 casas condominio fechado para alugar em Lauro de Freitas | R$ 1.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://imoveis.trovit.com.br/aluguel-lauro-freitas-casa-condominio-fechado) |
+| 🚗 Comutação | OLX | Lauro de Freitas - Geral | Imóveis para temporada | R$ 2.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/temporada/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas) |
+| 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | Casas para alugar | R$ 2.750,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/casas/ba+lauro-de-freitas/) |
 | 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | Casas para alugar em Lauro de Freitas | R$ 3.100,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.chavesnamao.com.br/casas-para-alugar/ba-lauro-de-freitas/) |
-| 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | 714 casas condominio fechado para alugar em Lauro de Freitas | R$ 4.500,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://imoveis.trovit.com.br/aluguel-lauro-freitas-casa-condominio-fechado) |
 | 🚗 Comutação | OLX | Lauro de Freitas - Buraquinho | casas para alugar em lauro de freitas com piscina | R$ 5.350,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/anuncios/casas-para-alugar-em-lauro-de-freitas-com-piscina) |
 | 🚗 Comutação | OLX | Lauro de Freitas - Buraquinho | condomínios em lauro de freitas para alugar | R$ 5.350,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/anuncios/condominios-em-lauro-de-freitas-para-alugar) |
-| 🚗 Comutação | VivaReal | Lauro de Freitas - Geral | Casas para alugar | R$ 6.493,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.zapimoveis.com.br/aluguel/casas/ba+lauro-de-freitas/) |
 | 🚗 Comutação | OLX | Santo Amaro - Geral | Casas com 2 quartos à venda | R$ 75.000,00 | 🟢 Disponível | [Acessar Anúncio 🔗](https://www.olx.com.br/imoveis/venda/casas/2-quartos/estado-ba/regiao-de-feira-de-santana-e-alagoinhas/santo-amaro) |
 
 ---
 
 ## 📊 Histórico e Arquivos CSV Segmentados por Plataforma e Ano
 * **JSON Estruturado para HTML**: `data/anuncios_imoveis_salvador.json`
-* **Arquivos CSV Segmentados**: `data/olx_2026.csv`, `data/vivareal_2026.csv`, `data/quintoandar_2026.csv`, `data/zap_imoveis_2026.csv`, etc. (152 registros totais)
+* **Arquivos CSV Segmentados**: `data/olx_2026.csv`, `data/vivareal_2026.csv`, `data/quintoandar_2026.csv`, `data/zap_imoveis_2026.csv`, etc. (160 registros totais)
 
 ---
 
