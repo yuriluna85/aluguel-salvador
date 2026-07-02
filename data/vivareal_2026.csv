@@ -1,25 +1,25 @@
 ﻿id,plataforma,cidade,bairro,titulo,preco_aluguel,quartos,area_m2,status,data_descoberta,data_atualizacao,link
-vivareal_ind_59ce07c7f1,VivaReal,Salvador,Geral,"Casas para alugar em Salvador, BA",1500.0,3,120.0,ativo,2026-07-01,2026-07-01,https://www.vivareal.com.br/aluguel/bahia/salvador/casa_residencial/
-vivareal_ind_b4b7641e70,VivaReal,Salvador,Geral,Casas para alugar,7960.0,3,120.0,ativo,2026-07-01,2026-07-01,https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/
-vivareal_ind_1b11864ce4,VivaReal,Salvador,Geral,"450 Casas para alugar em Salvador, BA",0.0,3,120.0,ativo,2026-07-01,2026-07-01,https://www.imovelweb.com.br/casas-aluguel-salvador-ba.html
-vivareal_ind_aae8955fa4,VivaReal,Salvador,Geral,"Imóveis para alugar em Salvador, BA",0.0,3,120.0,ativo,2026-07-01,2026-07-01,https://www.vivareal.com.br/aluguel/bahia/salvador/
-vivareal_ind_253eea4220,VivaReal,Lauro de Freitas,Geral,"Casas para alugar em Lauro de Freitas, BA",0.0,3,120.0,ativo,2026-07-01,2026-07-01,https://www.vivareal.com.br/aluguel/bahia/lauro-de-freitas/casa_residencial/
-vivareal_ind_8fa5fb61a9,VivaReal,Lauro de Freitas,Geral,339 Casas para alugar em Lauro de Freitas,6502.0,3,120.0,ativo,2026-07-01,2026-07-01,https://www.zapimoveis.com.br/aluguel/casas/ba+lauro-de-freitas/
-vivareal_ind_d255295bd3,VivaReal,Lauro de Freitas,Geral,"380 Casas para alugar em Lauro de Freitas, BA",0.0,3,120.0,ativo,2026-07-01,2026-07-01,https://www.imovelweb.com.br/casas-aluguel-lauro-de-freitas-ba.html
-vivareal_ind_4b475ac22c,VivaReal,Lauro de Freitas,Geral,Casas para alugar,9000.0,3,120.0,ativo,2026-07-01,2026-07-01,https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas
-vivareal_ind_2608e26448,VivaReal,Lauro de Freitas,Centro,"22 Casas para alugar em Centro, Lauro de Freitas",0.0,3,120.0,ativo,2026-07-01,2026-07-01,https://www.vivareal.com.br/aluguel/bahia/lauro-de-freitas/bairros/centro/casa_residencial/
+vivareal_ind_59ce07c7f1,VivaReal,Salvador,Geral,"Casas para alugar em Salvador, BA",1500.0,3,120.0,ativo,2026-07-02,2026-07-02,https://www.vivareal.com.br/aluguel/bahia/salvador/casa_residencial/
+vivareal_ind_268bc55527,VivaReal,Salvador,Geral,Aluguel de Imóveis,0.0,3,120.0,ativo,2026-07-02,2026-07-02,https://www.vivareal.com.br/aluguel/
+vivareal_ind_b4b7641e70,VivaReal,Salvador,Geral,Casas para alugar,7960.0,3,120.0,ativo,2026-07-02,2026-07-02,https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/
+vivareal_ind_1b11864ce4,VivaReal,Salvador,Geral,"404 Casas para alugar em Salvador, BA",30000.0,3,120.0,ativo,2026-07-02,2026-07-02,https://www.imovelweb.com.br/casas-aluguel-salvador-ba.html
+vivareal_ind_908787788c,VivaReal,Salvador,Geral,"Casas com Recepção para alugar em Alphaville I, Salvador",0.0,3,120.0,ativo,2026-07-02,2026-07-02,https://www.vivareal.com.br/aluguel/bahia/salvador/bairros/alphaville-i/casa_residencial/com-recepcao/
+vivareal_ind_aae8955fa4,VivaReal,Salvador,Geral,"Imóveis para alugar em Salvador, BA",0.0,3,120.0,ativo,2026-07-02,2026-07-02,https://www.vivareal.com.br/aluguel/bahia/salvador/
+vivareal_ind_253eea4220,VivaReal,Lauro de Freitas,Geral,"Casas para alugar em Lauro de Freitas, BA",0.0,3,120.0,ativo,2026-07-02,2026-07-02,https://www.vivareal.com.br/aluguel/bahia/lauro-de-freitas/casa_residencial/
+vivareal_ind_8fa5fb61a9,VivaReal,Lauro de Freitas,Geral,325 Casas para alugar em Lauro de Freitas,2100.0,3,120.0,ativo,2026-07-02,2026-07-02,https://www.zapimoveis.com.br/aluguel/casas/ba+lauro-de-freitas/
+vivareal_ind_d255295bd3,VivaReal,Lauro de Freitas,Geral,"380 Casas para alugar em Lauro de Freitas, BA",0.0,3,120.0,ativo,2026-07-02,2026-07-02,https://www.imovelweb.com.br/casas-aluguel-lauro-de-freitas-ba.html
+vivareal_ind_4b475ac22c,VivaReal,Lauro de Freitas,Geral,Casas para alugar,9000.0,3,120.0,ativo,2026-07-02,2026-07-02,https://www.olx.com.br/imoveis/aluguel/casas/estado-ba/grande-salvador/grande-salvador/lauro-de-freitas
+vivareal_ind_2608e26448,VivaReal,Lauro de Freitas,Centro,"21 Casas para alugar em Centro, Lauro de Freitas",0.0,3,120.0,ativo,2026-07-02,2026-07-02,https://www.vivareal.com.br/aluguel/bahia/lauro-de-freitas/bairros/centro/casa_residencial/
+vivareal_ind_3cb73368e6,VivaReal,Lauro de Freitas,Geral,aluguel de casas em Lauro de Freitas,950.0,3,120.0,ativo,2026-07-02,2026-07-02,https://www.facebook.com/groups/731537695066926/
+vivareal_ind_d149f99bf4,VivaReal,Salvador,Geral,Casas com Quintal para alugar,0.0,3,120.0,ativo,2026-07-02,2026-07-02,https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/quintal/
+vivareal_ind_f2dec50c98,VivaReal,Lauro de Freitas,Geral,129 Casas para alugar em Lauro de Freitas,3100.0,3,120.0,ativo,2026-07-02,2026-07-02,https://www.chavesnamao.com.br/casas-para-alugar/ba-lauro-de-freitas/
+vivareal_ind_dd7b680122,VivaReal,Lauro de Freitas,Geral,39 Casas para alugar 1200 reais em Lauro de Freitas,0.0,3,120.0,ativo,2026-07-02,2026-07-02,https://imoveis.mitula.com.br/imoveis/aluguel-casas-lauro-freitas-1200-reais
+vivareal_ind_87be7e646d,VivaReal,Lauro de Freitas,Geral,37 Imóveis para alugar em Lauro de Freitas,0.0,3,120.0,ativo,2026-07-02,2026-07-02,https://www.proprietariodireto.com.br/aluguel/imovel/ba/lauro-de-freitas/proprietario-direto
 vivareal_ind_d11af5ea88,VivaReal,Salvador,Geral,Imóveis para alugar,0.0,3,120.0,ativo,2026-07-01,2026-07-01,https://www.olx.com.br/imoveis/aluguel/estado-ba/grande-salvador
 vivareal_ind_139e32c9ee,VivaReal,Salvador,Geral,15 imóveis ville para alugar em Salvador,1490.0,3,120.0,ativo,2026-07-01,2026-07-01,https://imoveis.trovit.com.br/aluguel-salvador-ville
-vivareal_ind_3cb73368e6,VivaReal,Lauro de Freitas,Geral,aluguel de casas em Lauro de Freitas,950.0,3,120.0,ativo,2026-07-01,2026-07-01,https://www.facebook.com/groups/731537695066926/
-vivareal_ind_f2dec50c98,VivaReal,Lauro de Freitas,Geral,129 Casas para alugar em Lauro de Freitas,3100.0,3,120.0,ativo,2026-07-01,2026-07-01,https://www.chavesnamao.com.br/casas-para-alugar/ba-lauro-de-freitas/
-vivareal_ind_dd7b680122,VivaReal,Lauro de Freitas,Geral,39 Casas para alugar 1200 reais em Lauro de Freitas,0.0,3,120.0,ativo,2026-07-01,2026-07-01,https://imoveis.mitula.com.br/imoveis/aluguel-casas-lauro-freitas-1200-reais
-vivareal_ind_87be7e646d,VivaReal,Lauro de Freitas,Geral,37 Imóveis para alugar em Lauro de Freitas,0.0,3,120.0,ativo,2026-07-01,2026-07-01,https://www.proprietariodireto.com.br/aluguel/imovel/ba/lauro-de-freitas/proprietario-direto
-vivareal_ind_268bc55527,VivaReal,Salvador,Geral,Aluguel de Imóveis,0.0,3,120.0,ativo,2026-06-30,2026-06-30,https://www.vivareal.com.br/aluguel/
-vivareal_ind_908787788c,VivaReal,Salvador,Geral,"7 Casas com Recepção para alugar em Alphaville I, Salvador",0.0,3,120.0,ativo,2026-06-30,2026-06-30,https://www.vivareal.com.br/aluguel/bahia/salvador/bairros/alphaville-i/casa_residencial/com-recepcao/
 vivareal_ind_bd58e83adc,VivaReal,Lauro de Freitas,Geral,714 casas condominio fechado para alugar em Lauro de Freitas,1000.0,3,120.0,ativo,2026-06-30,2026-06-30,https://imoveis.trovit.com.br/aluguel-lauro-freitas-casa-condominio-fechado
 vivareal_ind_f5bbc5416c,VivaReal,Lauro de Freitas,Geral,Aluguel temporada & Airbnb em Lauro de Freitas,0.0,3,120.0,ativo,2026-06-30,2026-06-30,https://www.cozycozy.com/br/aluguel-temporada-lauro-de-freitas
 vivareal_ind_9de7e7b918,VivaReal,Lauro de Freitas,Geral,Casa de Condomínio Horto Vilas com 4 suites/ piscina/ área ...,0.0,3,120.0,ativo,2026-06-30,2026-06-30,https://www.instagram.com/p/DRQBq3_gem7/
-vivareal_ind_d149f99bf4,VivaReal,Salvador,Geral,Casas com Quintal para alugar,0.0,3,120.0,ativo,2026-06-30,2026-06-30,https://www.zapimoveis.com.br/aluguel/casas/ba+salvador/quintal/
 vivareal_ind_74bf60df20,VivaReal,Lauro de Freitas,Geral,Casa em loteamento para venda Área do terreno 1.764 ...,0.0,3,120.0,ativo,2026-06-30,2026-06-30,https://www.instagram.com/reel/DWbrqL4jZaT/
 vivareal_ind_dde513950a,VivaReal,Salvador,Geral,"Imóveis para alugar em Salvador, BA",0.0,3,120.0,ativo,2026-06-29,2026-06-29,https://www.netimoveis.com/locacao/bahia/salvador/
 vivareal_2608e26448,VivaReal,Lauro de Freitas,Centro,"Casas para alugar em Centro, Lauro de Freitas",0.0,3,120.0,ativo,2026-06-28,2026-06-28,https://www.vivareal.com.br/aluguel/bahia/lauro-de-freitas/bairros/centro/casa_residencial/
